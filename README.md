@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Maksat Yuldashev
+﻿# Hey there! 👋 I'm Maksat Yuldashev
 
 <div align="center">
 
@@ -399,5 +399,3 @@ Made with ❤️ by Maksat Yuldashev
 _Last updated: June 2026_
 
 </div>
-#   m a k s a t - d e v 0 9  
- 
